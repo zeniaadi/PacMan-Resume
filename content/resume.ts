@@ -32,19 +32,6 @@ export const resumeData = {
       type: "experience",
     },
     {
-      id: "takeda",
-      company: "Takeda Pharmaceuticals",
-      role: "Data Product Manager",
-      period: "Jul 2023 – Dec 2023",
-      location: "Remote, Fellow converted to Part Time",
-      bullets: [
-        "Developed a high-impact data product and predictive forecasting model for executive leadership, enabling strategic tracking of net-zero objectives and improving weekly operational efficiency by 15%",
-        "Built a comprehensive sustainability dashboard utilized by 250+ center managers for performance monitoring and optimization",
-      ],
-      highlights: ["15% efficiency", "250+ centers"],
-      type: "experience",
-    },
-    {
       id: "potlikker",
       company: "Potlikker Capital",
       role: "Investment Associate",
@@ -56,6 +43,19 @@ export const resumeData = {
       ],
       highlights: ["Food & Agriculture Investments", "Tech Investments", "Technical Assistance"],
       badges: ["Fellowship 2023", "Full Time 2024 onwards"],
+      type: "experience",
+    },
+    {
+      id: "takeda",
+      company: "Takeda Pharmaceuticals",
+      role: "Data Product Manager",
+      period: "Jul 2023 – Jun 2024",
+      location: "Remote, Fellow converted to Part Time",
+      bullets: [
+        "Developed a high-impact data product and predictive forecasting model for executive leadership, enabling strategic tracking of net-zero objectives and improving weekly operational efficiency by 15%",
+        "Built a comprehensive sustainability dashboard utilized by 250+ center managers for performance monitoring and optimization",
+      ],
+      highlights: ["15% efficiency", "250+ centers"],
       type: "experience",
     },
     {
@@ -76,7 +76,7 @@ export const resumeData = {
     {
       id: "edesia",
       company: "Edesia Nutrition",
-      role: "R&D Engineer",
+      role: "R&D Product Engineer",
       period: "May 2018 – Jun 2021",
       location: "Providence County, Rhode Island",
       bullets: [
