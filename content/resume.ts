@@ -10,7 +10,7 @@ export const resumeData = {
       company: "ServiceLink (Fidelity National Financial)",
       role: "Product Manager, Data Science & BI",
       period: "Aug 2023 – Present",
-      location: "Remote",
+      location: "Remote, Palo Alto",
       bullets: [
         "Lead the product migration & AI integration for two-sided Default Mortgage Service Platform, leading the analytics features & working cross-functionally to consolidate 500+ reports into product solutions, achieving 70% report reduction & better user insights",
         "Spearhead the strategic alignment with business users and management on product use cases by delivering targeted demos and a comprehensive onboarding plan, boosting adoption and engagement for 50+ business users",
@@ -125,7 +125,7 @@ export const resumeData = {
       company: "Ceres Imaging",
       role: "Product Manager Intern",
       period: "Dec 2021 – Jan 2022",
-      location: "Remote (MA)",
+      location: "Remote, MA",
       bullets: [
         "Communicated value of specialty imaging products through product marketing collateral and demos",
         "Evaluated features and showcased use cases through interactive product demos",
@@ -139,7 +139,7 @@ export const resumeData = {
       company: "IBM",
       role: "Product & System Architect (MIT SDM Fellow)",
       period: "Jan 2021 – May 2021",
-      location: "Remote (MA)",
+      location: "Remote, MA",
       bullets: [
         "Designed digital features for IBM Food Trust (blockchain SaaS)",
         "Increased product adoption by 10%",
@@ -153,7 +153,7 @@ export const resumeData = {
       company: "Blitzscaling Ventures",
       role: "Blitzscaling VC Fellow",
       period: "Sep 2022 – Sep 2023",
-      location: "Remote (MA)",
+      location: "Remote, MA",
       bullets: [
         "Sourced and evaluated early-stage startups across Southeast Asia for potential investment of up to $1M per deal",
         "Conducted initial research and market analysis on target companies, industries, and competitive landscapes",
