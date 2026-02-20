@@ -8,7 +8,7 @@ export const resumeData = {
     {
       id: "servicelink",
       company: "ServiceLink (Fidelity National Financial)",
-      role: "Tech Product Manager, Data Science & BI",
+      role: "Product Manager, Data Science & BI",
       period: "Aug 2023 – Present",
       location: "Remote",
       bullets: [
@@ -22,7 +22,7 @@ export const resumeData = {
     {
       id: "mit-drl",
       company: "MIT Device Realization Lab",
-      role: "Computational Researcher",
+      role: "Computational Researcher, Data Science & Product",
       period: "Aug 2021 – Jun 2023",
       location: "Cambridge, MA",
       bullets: [
@@ -32,6 +32,19 @@ export const resumeData = {
         "Improved stakeholder alignment speed by 30%",
       ],
       highlights: ["$2M+", "18% defect reduction", "92% accuracy"],
+      type: "experience",
+    },
+    {
+      id: "takeda",
+      company: "Takeda Pharmaceuticals",
+      role: "Data Product Manager",
+      period: "Jul 2023 – Dec 2023",
+      location: "Remote, Fellow converted to Part Time",
+      bullets: [
+        "Built product dashboards for executives and 250+ centers in the US in achieving sustainability goals",
+        "Interacted with stakeholders and main users to list pain points, find solutions, and onboard them to the solutions, increasing operational efficiency by 40% and executive visibility",
+      ],
+      highlights: ["40% efficiency", "250+ centers"],
       type: "experience",
     },
     {
@@ -94,20 +107,7 @@ export const resumeData = {
   ],
 
   fellowships: [
-    {
-      id: "takeda",
-      company: "Takeda Pharmaceuticals",
-      role: "Data Product Manager Fellow",
-      period: "Jul 2023 – Dec 2023",
-      location: "Remote",
-      bullets: [
-        "Built executive dashboard and predictive forecasting model for net-zero objectives",
-        "Improved weekly operational efficiency by 15%",
-        "Sustainability dashboard adopted by 250+ center managers",
-      ],
-      highlights: ["15% efficiency", "250+ managers"],
-      type: "fellowship",
-    },
+
     {
       id: "abinbev",
       company: "Anheuser-Busch InBev",
