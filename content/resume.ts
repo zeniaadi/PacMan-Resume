@@ -12,11 +12,10 @@ export const resumeData = {
       period: "Aug 2023 – Present",
       location: "Remote",
       bullets: [
-        "Led platform migration and ML integration, consolidating 500+ legacy reports into data product solutions (e.g., intelligent self-serve dashboards and analytics tools), resulting in ~70% report reduction",
-        "Enabled faster decision-making for 50+ business users",
-        "Delivered executive demos and onboarding across 3 business units, driving adoption and engagement",
+        "Lead the product migration & AI integration for two-sided Default Mortgage Service Platform, leading the analytics features & working cross-functionally to consolidate 500+ reports into product solutions, achieving 70% report reduction & better user insights",
+        "Spearhead the strategic alignment with business users and management on product use cases by delivering targeted demos and a comprehensive onboarding plan, boosting adoption and engagement for 50+ business users",
       ],
-      highlights: ["70% reduction", "50+ users", "3 business units"],
+      highlights: ["70% reduction", "50+ users"],
       type: "experience",
     },
     {
@@ -26,12 +25,10 @@ export const resumeData = {
       period: "Aug 2021 – Jun 2023",
       location: "Cambridge, MA",
       bullets: [
-        "Applied ML to manufacturing data across 3+ clients, identifying $2M+ efficiency opportunities",
-        "Reduced defect rates by 18% in chip and automotive manufacturing lines",
-        "Built predictive maintenance pipeline with 92% failure-prediction accuracy",
-        "Improved stakeholder alignment speed by 30%",
+        "Advised 3+ client organizations on improving core processes and product development; applied machine learning models to uncover inefficiencies and designed tailored solutions that enhanced operational performance across chip & automotive manufacturing",
+        "Established a gold-standard communication framework for SaaS data product development across 4+ manufacturing use cases, leading to smoother stakeholder alignment and expedited development cycles",
       ],
-      highlights: ["$2M+", "18% defect reduction", "92% accuracy"],
+      highlights: ["3+ clients", "4+ use cases"],
       type: "experience",
     },
     {
@@ -41,10 +38,10 @@ export const resumeData = {
       period: "Jul 2023 – Dec 2023",
       location: "Remote, Fellow converted to Part Time",
       bullets: [
-        "Built product dashboards for executives and 250+ centers in the US in achieving sustainability goals",
-        "Interacted with stakeholders and main users to list pain points, find solutions, and onboard them to the solutions, increasing operational efficiency by 40% and executive visibility",
+        "Developed a high-impact data product and predictive forecasting model for executive leadership, enabling strategic tracking of net-zero objectives and improving weekly operational efficiency by 15%",
+        "Built a comprehensive sustainability dashboard utilized by 250+ center managers for performance monitoring and optimization",
       ],
-      highlights: ["40% efficiency", "250+ centers"],
+      highlights: ["15% efficiency", "250+ centers"],
       type: "experience",
     },
     {
@@ -70,10 +67,10 @@ export const resumeData = {
       bullets: [
         "Founded and launched a digital R&D platform for Southeast Asia",
         "Acquired 30+ paying clients within 3 months",
-        "Secured $10K MIT Sandbox grant",
+        "Secured $5K MIT Sandbox grant",
         "Led product strategy, user research, and go-to-market execution",
       ],
-      highlights: ["30+ clients", "$10K grant", "0→1 launch"],
+      highlights: ["30+ clients", "$5K grant", "0→1 launch"],
       type: "experience",
     },
     {
@@ -83,10 +80,10 @@ export const resumeData = {
       period: "May 2018 – Jun 2021",
       location: "Providence County, Rhode Island",
       bullets: [
-        "Managed 10+ new and existing therapeutic and commercial product development processes end-to-end",
-        "Led ideation, prototype development, product studies, and commercialization",
+        "Managed the end-to-end product development and market launch of 10+ nutraceutical products for US market, employing data-driven strategies and rigorous analysis to ensure success, resulted in 4+ business partnerships and 2 mill funds raised",
+        "Engineered an R&D optimization tool that achieved a 10% cost reduction in primary products, enhancing company profitability",
       ],
-      highlights: ["10+ products"],
+      highlights: ["10+ products", "4+ partnerships", "10% cost reduction"],
       type: "experience",
     },
     {
