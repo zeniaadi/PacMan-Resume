@@ -78,7 +78,7 @@ export const resumeData = {
       company: "Edesia Nutrition",
       role: "R&D Product Engineer",
       period: "May 2018 – Jun 2021",
-      location: "Providence County, Rhode Island",
+      location: "North Kingstown, RI",
       bullets: [
         "Managed the end-to-end product development and market launch of 10+ nutraceutical products for US market, employing data-driven strategies and rigorous analysis to ensure success, resulted in 4+ business partnerships and 2 mill funds raised",
         "Engineered an R&D optimization tool that achieved a 10% cost reduction in primary products, enhancing company profitability",
@@ -110,7 +110,7 @@ export const resumeData = {
       company: "Anheuser-Busch InBev",
       role: "Tech Product Manager Intern",
       period: "Jun 2022 – Aug 2022",
-      location: "Remote",
+      location: "Mountain View, CA",
       bullets: [
         "Led 0→1 AI-powered onboarding platform using NLP + ML",
         "Reduced 90-day turnover by 20%",
@@ -125,7 +125,7 @@ export const resumeData = {
       company: "Ceres Imaging",
       role: "Product Manager Intern",
       period: "Dec 2021 – Jan 2022",
-      location: "Remote",
+      location: "Remote (MA)",
       bullets: [
         "Communicated value of specialty imaging products through product marketing collateral and demos",
         "Evaluated features and showcased use cases through interactive product demos",
@@ -139,7 +139,7 @@ export const resumeData = {
       company: "IBM",
       role: "Product & System Architect (MIT SDM Fellow)",
       period: "Jan 2021 – May 2021",
-      location: "Remote",
+      location: "Remote (MA)",
       bullets: [
         "Designed digital features for IBM Food Trust (blockchain SaaS)",
         "Increased product adoption by 10%",
@@ -153,7 +153,7 @@ export const resumeData = {
       company: "Blitzscaling Ventures",
       role: "Blitzscaling VC Fellow",
       period: "Sep 2022 – Sep 2023",
-      location: "Remote",
+      location: "Remote (MA)",
       bullets: [
         "Sourced and evaluated early-stage startups across Southeast Asia for potential investment of up to $1M per deal",
         "Conducted initial research and market analysis on target companies, industries, and competitive landscapes",
